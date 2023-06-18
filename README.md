@@ -9,11 +9,11 @@ Key features of this implementation include:
 
 - **Gradient Calculation**: The repository provides a function to calculate the gradient of a given function in one dimension. The gradient indicates the direction of steepest descent, allowing the algorithm to iteratively update the parameters.
 
-- **Learning Rate Optimization**: The algorithm supports various strategies for determining an optimal learning rate. These strategies, such as fixed learning rate, adaptive learning rate, or line search, ensure effective convergence and avoid overshooting or slow convergence issues.
+- **Learning Rate Optimization**: The algorithm supports various strategies for determining an optimal learning rate. These strategies, such as fixed learning rate, avoid overshooting or slow convergence issues.
 
-- **Convergence Criteria**: This implementation includes customizable convergence criteria to terminate the optimization process. Users can define stopping conditions such as a maximum number of iterations, a threshold for the change in function value, or a desired level of accuracy.
+- **Convergence Criteria**: This implementation includes customizable convergence criteria to terminate the optimization process. Users can define stopping conditions such as a maximum number of iterations, a threshold for the change in function value.
 
-- **Visualization**: The repository provides visualization tools to aid in understanding the optimization process. It includes interactive plots that display the function, the current position, and the trajectory of the algorithm throughout the iterations.
+- **Visualization**: The repository provides visualization tools to aid in understanding the optimization process. It includes the current iteration and the value.
 
 ## Usage
 
