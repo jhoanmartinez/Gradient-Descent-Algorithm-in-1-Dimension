@@ -57,3 +57,5 @@ for epoch in range(training_epochs):
 
     # Print the updated value and gradient
     print(f"Epoch {epoch+1}: random_x = {random_x}, gradient = {grad}\n")
+
+print("local min =", random_x)
