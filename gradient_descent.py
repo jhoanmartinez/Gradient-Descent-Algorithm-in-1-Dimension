@@ -49,7 +49,7 @@ print(f"Random x value taken = {random_x}, index = {random_x_index}\n")
 
 # Gradient descent algorithm
 for epoch in range(training_epochs):
-    # Compute the gradient
+    # Compute the derivate
     grad = deriv(random_x)
 
     # Update the value of random_x using the gradient descent update rule
