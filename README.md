@@ -22,7 +22,7 @@ To use this implementation of the Gradient Descent algorithm, follow these steps
 1. Clone the repository to your local machine using the following command:
 
    ```shell
-   git clone https://github.com/your-username/gradient-descent-1d.git
+   git clone https://github.com/jhoanmartinez/Gradient-Descent-Algorithm-in-1-Dimension.git
    ```
    
 ## Examples
